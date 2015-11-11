@@ -1,0 +1,6 @@
+c:\users\adunigan\documents\visual studio 2013\Projects\PodcastClient\PodcastClient\bin\Debug\PodcastClient.exe
+c:\users\adunigan\documents\visual studio 2013\Projects\PodcastClient\PodcastClient\bin\Debug\PodcastClient.pdb
+c:\users\adunigan\documents\visual studio 2013\Projects\PodcastClient\PodcastClient\obj\Debug\PodcastClient.exe
+c:\users\adunigan\documents\visual studio 2013\Projects\PodcastClient\PodcastClient\obj\Debug\PodcastClient.pdb
+c:\users\adunigan\documents\visual studio 2013\Projects\PodcastClient\PodcastClient\obj\Debug\PodcastClient.csprojResolveAssemblyReference.cache
+c:\users\adunigan\documents\visual studio 2013\Projects\PodcastClient\PodcastClient\bin\Debug\PodcastClient.exe.config
