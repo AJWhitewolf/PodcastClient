@@ -4,3 +4,5 @@ c:\users\adunigan\documents\visual studio 2013\Projects\PodcastClient\PodcastCli
 c:\users\adunigan\documents\visual studio 2013\Projects\PodcastClient\PodcastClient\obj\Debug\PodcastClient.pdb
 c:\users\adunigan\documents\visual studio 2013\Projects\PodcastClient\PodcastClient\obj\Debug\PodcastClient.csprojResolveAssemblyReference.cache
 c:\users\adunigan\documents\visual studio 2013\Projects\PodcastClient\PodcastClient\bin\Debug\PodcastClient.exe.config
+C:\Users\ADunigan\Documents\Visual Studio 2013\Projects\PodcastClient\PodcastClient\obj\Debug\Interop.WMPLib.dll
+C:\Users\ADunigan\Documents\Visual Studio 2013\Projects\PodcastClient\PodcastClient\obj\Debug\PodcastClient.csproj.ResolveComReference.cache

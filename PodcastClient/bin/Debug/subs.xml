@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-	<sub title="StarTalk Radio" url="http://feeds.soundcloud.com/users/soundcloud:users:38128127/sounds.rss" />
-	<sub title="Happy Jacks RPG Podcast" url="http://www.happyjacks.org/feed/podcast/" />
-	<sub title="Happy Jacks Actual Play" url="http://www.happyjacks.org/feed/actualplay/" />
-	<sub title="Ken and Robin Talk About Stuff" url="http://www.kenandrobintalkaboutstuff.com/index.php/feed/" />
-	<sub title="Cortex" url="https://www.relay.fm/cortex/feed" />
-	<sub title="Hello Internet" url="http://www.hellointernet.fm/podcast?format=rss" />
-	<sub title="The H.P. Lovecraft Literary Podcast" url="http://hppodcraft.com/feed/" />
-	<sub title="The Bugle" url="http://feeds.feedburner.com/thebuglefeed" />
-	<sub title="How Did This Get Made?" url="http://rss.earwolf.com/how-did-this-get-made" />
-	<sub title="Stuff You Should Know" url="http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss" />
+  <sub title="StarTalk Radio" url="http://feeds.soundcloud.com/users/soundcloud:users:38128127/sounds.rss">
+    <item title="Decoding Science and Politics with Bill Clinton" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/231865932-startalk-decoding-science-and-politics-with-bill-clinton.mp3" pubDate="Fri, 06 Nov 2015 18:15:31 +0000" />
+  </sub>
+  <sub title="Happy Jacks RPG Podcast" url="http://www.happyjacks.org/feed/podcast/" />
+  <sub title="Happy Jacks Actual Play" url="http://www.happyjacks.org/feed/actualplay/" />
+  <sub title="Ken and Robin Talk About Stuff" url="http://www.kenandrobintalkaboutstuff.com/index.php/feed/" />
+  <sub title="Cortex" url="https://www.relay.fm/cortex/feed" />
+  <sub title="Hello Internet" url="http://www.hellointernet.fm/podcast?format=rss" />
+  <sub title="The H.P. Lovecraft Literary Podcast" url="http://hppodcraft.com/feed/" />
+  <sub title="The Bugle" url="http://feeds.feedburner.com/thebuglefeed" />
+  <sub title="How Did This Get Made?" url="http://rss.earwolf.com/how-did-this-get-made" />
+  <sub title="Stuff You Should Know" url="http://www.howstuffworks.com/podcasts/stuff-you-should-know.rss" />
 </root>
